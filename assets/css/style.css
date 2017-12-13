@@ -1,0 +1,21 @@
+
+body {
+	background-color: #2f4f4f;	
+}
+
+.gifs{
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.artist{
+	margin-right: 5px;
+	margin-top: 10px;
+}
+
+
+#footer {
+	color: black;
+	padding-top: 30%;
+	padding-left: 5%;
+}
